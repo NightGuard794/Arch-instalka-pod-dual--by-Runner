@@ -14,7 +14,7 @@ buduje archa na **wolnym** miejscu jakie znajduje się na dysku dla tego jest do
 **użytkowanie**
 
 ```bash
-curl -L -O https://github.com/NightGuard794/Arch-instalka-pod-dual--by-Runner/edit/main/install.sh && chmod +x install.sh && ./install.sh
+curl -L -O https://github.com/NightGuard794/Arch-instalka-pod-dual--by-Runner/main/install.sh && chmod +x install.sh && ./install.sh
 ```
 
 
